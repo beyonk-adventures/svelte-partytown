@@ -23,5 +23,8 @@
 	"dependencies": {
 		"@beyonk/async-script-loader": "^2.3.0",
 		"@builder.io/partytown": "^0.7.1"
+	},
+	"publishConfig": {
+		"directory": "./package/"
 	}
 }
