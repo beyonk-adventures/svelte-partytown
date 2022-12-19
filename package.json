@@ -1,5 +1,5 @@
 {
-	"name": "svelte-partytown",
+	"name": "@beyonk/svelte-partytown",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
